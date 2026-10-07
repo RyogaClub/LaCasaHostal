@@ -1,0 +1,11 @@
+{
+  "name": "Tours — Hostal Flores Petén",
+  "short_name": "La Casa Hostal",
+  "description": "Reserva tus tours desde el hostal · Isla de Flores, Petén",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040a08",
+  "theme_color": "#1D9E75"
+}
